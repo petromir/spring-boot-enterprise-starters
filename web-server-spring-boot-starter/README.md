@@ -66,8 +66,8 @@ Run the following command to point to the `SNAPSHOT` version:
 mvnd versions:use-latest-snapshots -Dincludes=com.petromirdzhunev:web-server-spring-boot-starter -DallowMajorUpdates=true -DallowMinorUpdates=true
 ```
 
-#### Revert to previous version
-When you finish the development you can revert to the previous version by running:
+#### Revert to the previous version
+When you finish the development, you can revert to the previous version by running:
 ```shell
 mvnd versions:revert -Dincludes=com.petromirdzhunev:web-server-spring-boot-starter
 ```
