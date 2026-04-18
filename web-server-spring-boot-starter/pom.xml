@@ -16,7 +16,7 @@
 
     <properties>
         <springdoc-openapi-starter-webmvc-ui.version>2.1.0</springdoc-openapi-starter-webmvc-ui.version>
-        <swagger-annotations.version>2.2.8</swagger-annotations.version>
+        <swagger-annotations.version>2.2.48</swagger-annotations.version>
         <jmimemagic.version>0.1.5</jmimemagic.version>
     </properties>
 
