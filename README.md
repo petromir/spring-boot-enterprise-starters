@@ -2,6 +2,9 @@
 
 A set of crafted Spring Boot starters focusing on common problems in Enterprise Java development.
 
+> [!WARNING]
+> Under active development 🚧
+
 ## Prerequisites
 1. [Install SDKMAN](https://sdkman.io/install)
 2. Initialize SDKMAN environment
